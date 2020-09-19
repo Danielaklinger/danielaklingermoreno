@@ -25,7 +25,6 @@
 Nombre: Daniela Klinger Moreno.<br>
 Grado: 10-B.</p></div>
 </body>
-</html>
 
 <p>En estos momentos de pandemia, la tecnología ha aportado un papel importante tanto en los hogares, como en los lugares de estudio, como lo son las escuelas y universidades.</p>
 <p>La tecnología también ha aportado mucho en los hospitales, ya que han podido conseguir ventiladores y demás dispositivos para poder atender a las personas contagiadas con Covid-19</p>
@@ -33,8 +32,51 @@ Grado: 10-B.</p></div>
 <table>
 <thead>
 <tr>
-<th>Top 10 países con más contagios por Covid-19 (18/09/2020)</th>
+<th>Top 10 países con más muertes por Covid-19 (18/09/2020)</th>
 <th>Número de contagios</th>
 </tr>
-
-
+</thead>
+<tbody>
+<tr>
+<td>Estados Unidos</td>
+<td>198.306</td>
+</tr>
+<tr>
+<td>Brasil</td>
+<td>134.935</td>
+</tr>
+<tr>
+<td>India</td>
+<td>84.372</td>
+</tr>
+<tr>
+<td>México</td>
+<td>72.179</td>
+</tr>
+<tr>
+<td>Reino Unido</td>
+<td>41.732</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td>35.668</td>
+</tr>
+<tr>
+<td>Francia</td>
+<td>31.249</td>
+</tr>
+<tr>
+<td>Perú</td>
+<td>31.146</td>
+</tr>
+<tr>
+<td>España</td>
+<td>30.495</td>
+</tr>
+<tr>
+<td>Irán</td>
+<td>23.952</td>
+</tr>
+</tbody>
+</table>
+</html>
