@@ -7,7 +7,7 @@
         body {font-family:sans-serif;}
         
         #contenedor {
-  width: 300px;
+  width: 70%;
   margin: 0 auto;
 }
       #tecnology {font-family:fantasy;}
