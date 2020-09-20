@@ -6,6 +6,10 @@
         <style>
         body {font-family:sans-serif;}
         
+        #contenedor {
+  width: 300px;
+  margin: 0 auto;
+}
       #tecnology {font-family:fantasy;}
       #hospital {font-family:fantasy;}
       #school {font-family:fantasy;}
@@ -37,6 +41,9 @@ td, th {
         </style>
         </head>
     <body>
+ 
+ <div id="contenedor">
+
     <h1 align="center" id="tecnology">¿Qué aporta la tecnología en esta época de pandemia?</h1>
 <div id="personal-information"><h2>Información Personal</h2>
 <p>Institución Educativa La Milagrosa<br>
@@ -120,5 +127,9 @@ Otras personas aprovecharon para aprender algo, por ejemplo el estudio de idioma
 <div><img class="image" src="https://www.etapainfantil.com/wp-content/uploads/2019/08/familia-felicidad.jpg" alt= "Familia feliz reunida"
 width="300"></div>
 
+<h3 align="center"><a href="#restaurant">La Ayuda de la Tecnología en el Comercio.</a></h3>
+<p>Lugares públicos como los restaurantes y locales de venta de ropa, han optado por usar las redes sociales como ayuda para que las personas puedan comprarles, y para que puedan darse a conocer más
+
+</div>
 </body>
 </html>
