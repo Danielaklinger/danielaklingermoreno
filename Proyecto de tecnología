@@ -4,7 +4,7 @@
         <title>¿Qué aporta la tecnología en esta época de pandemia?</title>
         <meta charset="utf-8">
         <style>
-        div {text-align: center;}
+        .image {text-align: center;}
         table {
    border-collapse: separate;
    border-spacing: 5px;
