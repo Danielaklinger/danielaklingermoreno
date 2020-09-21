@@ -6,7 +6,7 @@
         <style>
 	body {font-family:sans-serif;
 	background-color:rgb(235, 235, 235);
-	padding:100px;}
+	padding:10px;}
 	
 	#tecnology {font-family:"Verdana";}
       #hospital {font-family:"Verdana";}
