@@ -5,7 +5,8 @@
         <meta charset="utf-8">
         <style>
 	body {font-family:sans-serif;
-	background-color:rgb(235, 235, 235);}
+	background-color:rgb(235, 235, 235);
+	padding:50px;}
 	
 	#tecnology {font-family:"Verdana";}
       #hospital {font-family:"Verdana";}
