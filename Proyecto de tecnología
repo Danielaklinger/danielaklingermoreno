@@ -35,7 +35,7 @@ td, th {
             overflow-x: hidden;
             margin: 15px 0px 10px 15px;
             border: 3px dashed rgb(81, 23, 128);
-            padding: 100px;
+            padding: 10px;
         }
         </style>
         </head>
