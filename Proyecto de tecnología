@@ -53,6 +53,13 @@ td, th {
             border: 3px dashed rgb(81, 23, 128);
             padding: 10px;
         }
+	
+	.image {
+                width: 200px;
+                border:8px ridge rgb(99, 34, 153);
+                margin:16px;
+            }
+	    
         </style>
         </head>
     <body>
