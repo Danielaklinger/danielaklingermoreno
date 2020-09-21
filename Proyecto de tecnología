@@ -4,6 +4,10 @@
         <title>¿Qué aporta la tecnología en esta época de pandemia?</title>
         <meta charset="utf-8">
         <style>
+        .centrado{
+  margin-left: auto;
+  margin-right: auto;
+}
         body {font-family:sans-serif;}
         
       #tecnology {font-family:fantasy;}
@@ -37,9 +41,7 @@ td, th {
         </style>
         </head>
     <body>
- 
- <div align="center">
-
+  
     <h1 align="center" id="tecnology">¿Qué aporta la tecnología en esta época de pandemia?</h1>
 <div id="personal-information"><h2>Información Personal</h2>
 <p>Institución Educativa La Milagrosa<br>
@@ -126,6 +128,6 @@ width="300"></div>
 <h3 align="center"><a href="#restaurant">La Ayuda de la Tecnología en el Comercio.</a></h3>
 <p>Lugares públicos como los restaurantes y locales de venta de ropa, han optado por usar las redes sociales como ayuda para que las personas puedan comprarles, y para que puedan darse a conocer más
 
-</div>
+
 </body>
 </html>
