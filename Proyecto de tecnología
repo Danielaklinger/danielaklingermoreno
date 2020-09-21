@@ -4,10 +4,9 @@
         <title>¿Qué aporta la tecnología en esta época de pandemia?</title>
         <meta charset="utf-8">
         <style>
-       #contenedor {
-  width: 10px;
-  margin: 0 auto;
-}
+       .centrado{text-align:center;border:1px dotted #000; padding:8px;}
+		div{width:50%;border:1px dotted #f00;padding:8px;margin:auto;}
+		center{margin:16px 0;}
         body {font-family:sans-serif;}
         
       #tecnology {font-family:fantasy;}
@@ -42,7 +41,7 @@ td, th {
         </head>
     <body>
   
-  <div id="contenedor">
+  <p class="centrado">texto centrado</p>
   
     <h1 align="center" id="tecnology">¿Qué aporta la tecnología en esta época de pandemia?</h1>
 <div id="personal-information"><h2>Información Personal</h2>
