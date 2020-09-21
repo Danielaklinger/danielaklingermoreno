@@ -6,10 +6,6 @@
         <style>
         body {font-family:sans-serif;}
         
-        #contenedor {
-  width: 30%;
-  margin: 0 auto;
-}
       #tecnology {font-family:fantasy;}
       #hospital {font-family:fantasy;}
       #school {font-family:fantasy;}
@@ -42,7 +38,7 @@ td, th {
         </head>
     <body>
  
- <div id="contenedor">
+ <div align="center">
 
     <h1 align="center" id="tecnology">¿Qué aporta la tecnología en esta época de pandemia?</h1>
 <div id="personal-information"><h2>Información Personal</h2>
