@@ -9,7 +9,7 @@
 	padding:100px;}
 	
 	p {
-  border: gray 4px solid;
+  border: gray 1px solid;
 }
 	
 	#tecnology {font-family:"Verdana";
