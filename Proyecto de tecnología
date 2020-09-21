@@ -5,10 +5,11 @@
         <meta charset="utf-8">
         <style>
 	
-        #tecnology {font-family:fantasy;}
-      #hospital {font-family:fantasy;}
-      #school {font-family:fantasy;}
-      #house {font-family:fantasy;}
+        #tecnology {font-family:"Verdana";}
+      #hospital {font-family:"Verdana";}
+      #school {font-family:"Verdana";}
+      #house {font-family:"Verdana";}
+      #restaurant {font-family:"Verdana";}
         
         div {text-align: center;}
         table {
