@@ -6,7 +6,7 @@
         <style>
 	.work {
                 background: rgb(235, 235, 235);
-                padding: 6px;
+                padding: 20px;
             }
 	
         #tecnology {font-family:fantasy;}
