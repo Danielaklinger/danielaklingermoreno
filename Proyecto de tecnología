@@ -11,10 +11,18 @@
 	#tecnology {font-family:"Verdana";
 	background-color:rgb(191, 136, 219);
         }
-      #hospital {font-family:"Verdana";}
-      #school {font-family:"Verdana";}
-      #house {font-family:"Verdana";}
-      #restaurant {font-family:"Verdana";}
+      #hospital {font-family:"Verdana";
+      background-color:rgb(184, 230, 213);
+        }
+      #school {font-family:"Verdana";
+      background-color:rgb(184, 230, 213);
+      }
+      #house {font-family:"Verdana";
+      background-color:rgb(184, 230, 213);
+      }
+      #restaurant {font-family:"Verdana";
+      background-color:rgb(184, 230, 213);
+      }
         
         div {text-align: center;}
         table {
