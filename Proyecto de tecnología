@@ -45,8 +45,7 @@ td, th {
         #personal-information
         {
             background: rgb(133, 237, 187);
-	    background-position: center;
-            width: 80%;
+	    width: 80%;
             height: 185px;
             overflow-y: auto;
             overflow-x: hidden;
