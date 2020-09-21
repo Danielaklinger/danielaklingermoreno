@@ -6,7 +6,7 @@
         <style>
 	body {font-family:sans-serif;
 	background-color:rgb(235, 235, 235);
-	padding:10px;}
+	padding:100px;}
 	
 	#tecnology {font-family:"Verdana";
 	background-color:rgb(191, 136, 219);
