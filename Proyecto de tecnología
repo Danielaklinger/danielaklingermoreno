@@ -55,7 +55,7 @@ td, th {
         }
 	
 	.image {
-                width: 600px;
+                width: 1000px;
                 border:8px ridge rgb(99, 34, 153);
                 margin:16px;
             }
