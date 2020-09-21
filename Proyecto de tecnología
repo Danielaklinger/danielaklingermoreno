@@ -4,8 +4,8 @@
         <title>¿Qué aporta la tecnología en esta época de pandemia?</title>
         <meta charset="utf-8">
         <style>
-	body {font-family:sans-serif;}
-	{background-color:rgb(235, 235, 235);}
+	body {font-family:sans-serif;
+	background-color:rgb(235, 235, 235);}
 	
 	#tecnology {font-family:"Verdana";}
       #hospital {font-family:"Verdana";}
@@ -134,6 +134,6 @@ width="300"></div>
 
 <p>Un aspecto bueno que ha traído esta pandemia es que las familias en sus casas han podido comunicarse más y aprender a pasar más tiempo juntos, y al ver las circunstancias y al ver el como todos están en peligro también ha dado paso para reconciliaciones.<br>
 Pero un aspecto malo a recalcar es que al los adultos mayores ser la población más vulnerable, muchos que viven solos, han tenido que mantenerse alejados de sus familias. Por otra parte, tammbién la parte de sus empleos se ha visto afectada, ya que muchos trabajan para conseguir la comida de cada día, y con a pandemia no han podido salir a trabajar. Y esto mismo pasa con muchas personas que sobreviven con lo que ganan diario y por la cuarentena no han podido salir y están aguantando hambre.
-
+</p>
 </body>
 </html>
