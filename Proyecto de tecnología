@@ -39,7 +39,6 @@ td, th {
         </head>
     <body>
     
-    <div class="work">
   
  <h1 align="center" id="tecnology">¿Qué aporta la tecnología en esta época de pandemia?</h1>
 <div id="personal-information"><h2>Información Personal</h2>
@@ -129,7 +128,7 @@ width="300"></div>
 <h3 align="center" id="restaurant">La Ayuda de la Tecnología en el Comercio.</h3>
 <p>Lugares públicos como los restaurantes y locales de venta de ropa, han optado por usar las redes sociales como ayuda para que las personas puedan comprarles, y para que puedan darse a conocer más. Así como muchos negocios que ya funcionaban de esa manera se están haciendo más conocidos ahora<br>
 Así mismo sucede con aplicaciones como "Rappi" en la que su prioridad son los domicilios desde cualquier negocio que esté vinculado a su aplicación, otras aplicaciones como esta son "Domicilios.com", "Glovo", entre otras.</p>
-<div><img class="image" src:"https://www.blueprint.pro/wp-content/uploads/2018/09/celulares-mano.jpg" alt= "Una persona sosteniendo un celular en su mano"
+<div><img class="image" src="https://www.blueprint.pro/wp-content/uploads/2018/09/celulares-mano.jpg" alt= "Una persona sosteniendo un celular en su mano"
 width="300"></div>
 
 </body>
