@@ -8,7 +8,9 @@
 	background-color:rgb(235, 235, 235);
 	padding:10px;}
 	
-	#tecnology {font-family:"Verdana";}
+	#tecnology {font-family:"Verdana";
+	background-color:rgb(191, 136, 219);
+        }
       #hospital {font-family:"Verdana";}
       #school {font-family:"Verdana";}
       #house {font-family:"Verdana";}
