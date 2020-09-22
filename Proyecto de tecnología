@@ -49,7 +49,7 @@ td, th {
             height: 185px;
             overflow-y: auto;
             overflow-x: hidden;
-            margin: 15px 0px 10px 15px;
+            margin: auto;
             border: 3px dashed rgb(81, 23, 128);
             padding: 10px;
         }
