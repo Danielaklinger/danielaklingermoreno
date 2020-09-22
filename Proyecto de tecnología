@@ -37,6 +37,7 @@
    text-align: center;
    background: rgb(66, 11, 66) bottom left repeat-x;
    color: rgb(255, 8, 255);
+   margin: auto;
 }
 td, th {
    background: rgb(255, 255, 255);
